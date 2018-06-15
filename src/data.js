@@ -2,9 +2,9 @@ window.data = {
   function1: function (cohorts) {
     var htmlString = ''
     for (i = 0; i < cohorts.length; i++) {
-      if(cohorts[i].id === "lim-2018-03-pre-core-pw") {
+      //if(cohorts[i].id === "lim-2018-03-pre-core-pw") {
         htmlString += '<option value =' + i + '>' + cohorts[i].id + '.</option>';
-      }
+      //}
     }
   return htmlString;
   },

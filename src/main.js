@@ -1,13 +1,27 @@
 var enterButton = document.getElementById('enter_button');
+var platformButton = document.getElementById('platform_Button');
+var filterButton = document.getElementById('filter_button')
 var view1 = document.getElementById('view_1');
 var view2 = document.getElementById('view_2');
+var view3 = document.getElementById('view_3');
 var header = document.getElementById('header_1')
 var id = document.getElementById("cohorts_list");
+var info1 = document.getElementById("info_1");
+
 
 enterButton.addEventListener('click',function(){
   view1.style.display = "none";
   view2.style.display = "block";
   header.style.display = "block";
+  view3.style.display = "none";
+});
+
+
+platformButton.addEventListener('click',function(){
+  view1.style.display = "none";
+  view2.style.display = "none";
+  header.style.display = "block";
+  view3.style.display = "block";
 
   var request1 = new XMLHttpRequest();
     request1.open('GET', 'http://127.0.0.1:8080/data/cohorts.json');
@@ -24,7 +38,17 @@ enterButton.addEventListener('click',function(){
       document.getElementById("users_list").innerHTML = data.function2(usersData)
     };
     request2.send();
-});
+})
+
+filterButton.addEventListener('click',function(){
+  view1.style.display = "none";
+  view2.style.display = "none";
+  header.style.display = "block";
+  view3.style.display = "block";
+  info1.style.display = "block";
+})
+
+
 
 
 
