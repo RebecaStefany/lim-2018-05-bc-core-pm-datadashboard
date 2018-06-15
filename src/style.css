@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0 px;
+
+}
+#view_1 {
+    border: 1px solid black;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    float: left;
+    margin-left: 25%;
+    margin-top: 15%;
+    
+}
+
+
+#view_2 {
+    border: 1px solid black;
+    height: 600px;
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-size: 25px;
+}
+
+#header_1 {
+    background-color: #FFE521;
+    font-size: 40px;
+    text-align: center;
+    display: none;
+    padding:10px;
+
+}
+
+#logo_lab {
+    height: 50%;
+    width: 50%;
+
+}
+#view_2 {
+    display: none;
+
+}
+

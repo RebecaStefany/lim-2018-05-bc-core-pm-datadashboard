@@ -1,11 +1,41 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Data Dashboard</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
+    <header id = "header_1">Plataforma de progreso</header>    
+    <section id = "view_1">
+      <div><img src="img/Laboratoria_RGB_logo-01.png" alt="Logo" id="logo_lab"></div>
+      <div>Ingresa tu usuario</div>
+      <input type="text">
+      <div>Ingresa tu clave</div>
+      <input type="text">
+      <br>
+      <input type="button" id="enter_button" value="Entrar">
+      <br>
+    </section>
+    <section id = "view_2">
+      <div>Mira el progreso de las estudiantes</div>
+      <br>
+      <div>1. Selecciona un cohort</div>
+      <br>
+      <select name="cohorts_list" id="cohorts_list"></select>
+      <br>
+      <br>
+      <div>2. Selecciona una estudiante</div>
+      <br>
+      <select name="users_list" id="users_list"></select>
+      <br>
+      <br>
+      <input type="button" id="filter_button" value="Filtrar">
+      <div id="info"></div>
+    </section>
+    <script src="data.js"></script>
     <script src="main.js"></script>
   </body>
 </html>
