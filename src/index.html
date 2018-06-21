@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -8,46 +9,49 @@
     <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
-    <header id = "header_1"><img src="img/Laboratoria_RGB_logo-01.png" alt="Logo" id="logo_lab"></header>    
     <section id = "view_1">
-      <div><img src="img/Laboratoria_RGB_logo-01.png" alt="Logo" id="logo_lab"></div>
-      <div>Ingresa tu usuario</div>
-      <input type="text">
-      <div>Ingresa tu clave</div>
-      <input type="text">
-      <br>
-      <input type="button" id="enter_button" value="Entrar">
-      <br>
+      <div id = "img_container"><img src="img/Laboratoria_CMYK_logo-04.png" alt="logolab" id = "logo_img"></div>
+      <div id = "login_container">
+        <div>Ingresa tu usuario</div>
+        <input type = "text">
+        <div>Ingresa tu clave</div>
+        <input type="password" name="password" id = "login_password">
+        <div>¿Olvidaste tu clave?</div>
+        <button id = "login_button">Login</button>
+      </div>
     </section>
+
     <section id = "view_2">
-      <br>
-      <h1>Plataforma de progreso</h1>
-      <br>
-      <input type="button" value="Ingresa" id = "platform_Button">
-      <div><img src="img/imagen1.jpg" alt="Logo" id="img1"></div>
-      <div><img src="img/imagen2.jpeg" alt="Logo" id="img2"></div>
-      <div><img src="img/imagen3.jpg" alt="Logo" id="img3"></div>
-      <div><img src="img/imagen4.jpg" alt="Logo" id="img4"></div>    
+      <div>
+        <div>Hola Ale</div>
+        <button>Cohorts</button>
+        <button id = "students_button">Students</button>
+      </div>
+      <div>
+        <div>Plataforma de Progreso</div>
+      </div>
     </section>
+
     <section id = "view_3">
-      <br>
-      <div>1. Selecciona un cohort</div>
-      <br>
-      <select name="cohorts_list" id="cohorts_list"></select>
-      <br>
-      <br>
-      <div>2. Selecciona una estudiante</div>
-      <br>
-      <select name="users_list" id="users_list"></select>
-      <br>
-      <br>
-      <input type="button" id="filter_button" value="Filtrar">
+        <select name="select" id="select_cohorts"></select>
+        <button id = "filter_button">Filtrar</button>
+        <div>
+            <div id = "users_list"></div>
+            <div></div>
+        </div>
+        
     </section>
-    <div id="info_1">Completitud de ejecicios por curso: Introduccion a la programacion
-      <br>
-      <br>
-      <img src="img/Grafico1.png" alt="Logo" id="graf1"></div>
     <script src="data.js"></script>
     <script src="main.js"></script>
+
   </body>
 </html>
+
+
+
+
+
+
+
+
+
