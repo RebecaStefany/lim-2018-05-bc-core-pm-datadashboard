@@ -22,13 +22,19 @@ Sketch 1
 ![img_20180613_130310](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth1.png)
 
 Sketch 2
-![img_20180613_130405](https://user-images.githubusercontent.com/39382009/41405943-a8343e78-6f90-11e8-9ed7-3dee86f3ccb0.jpg)
+![img_20180613_130405](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth2.png)
 
 Sketch 3
-![img_20180613_130042](https://user-images.githubusercontent.com/39382009/41405941-a7f1824a-6f90-11e8-8e63-cabd0ddd0021.jpg)
+![img_20180613_130042](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth3.png)
 
 Sketch 4
-![img_20180613_125954](https://user-images.githubusercontent.com/39382009/41405944-a853dcf6-6f90-11e8-902f-c783d2cc880d.jpg)
+![img_20180613_125954](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth4.png)
+
+Sketch 5
+![img_20180613_125954] (https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth5.png)
+
+Sketch 6
+![img_20180613_125954](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth6.png)
 
 
 ## Prototipo
