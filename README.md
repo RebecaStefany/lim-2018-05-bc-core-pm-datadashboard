@@ -38,16 +38,23 @@ Sketch 6
 
 
 ## Prototipo
-Despues de los skecth se procede a realizar el prototipo en alta fidelidad.
+Despues de los skecth se procede a realizar el prototipo en alta fidelidad de acuerdo a opiniones y comnentarios referidas por las
+entrevistadas.
 
 Frame 1
-![frame1](https://user-images.githubusercontent.com/39382009/41407565-69ac8868-6f95-11e8-841d-4ce161bd26f4.png)
+![frame1](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/frame1.png)
 
 Frame2
-![frame2](https://user-images.githubusercontent.com/39382009/41407566-69cd5200-6f95-11e8-8ddc-5c6a6c46d1f8.png)
+![frame2](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/frame2.png)
 
 Frame 3
-![frame3](https://user-images.githubusercontent.com/39382009/41407567-69eb744c-6f95-11e8-910b-b7aee2093b59.png)
+![frame3](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/frame3.png)
 
 Frame 4
-![frame4](https://user-images.githubusercontent.com/39382009/41407568-6a18e544-6f95-11e8-911f-a873a18282b0.png)
+![frame4](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/frame4.png)
+
+Frame 5
+![frame4](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/frame5.png)
+
+Frame 6
+![frame4](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/frame6.png)
