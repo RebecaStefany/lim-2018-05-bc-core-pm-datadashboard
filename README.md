@@ -31,7 +31,7 @@ Sketch 4
 ![img_20180613_125954](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth4.png)
 
 Sketch 5
-![img_20180613_125954] (https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth5.png)
+![img_20180613_125954](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth5.png)
 
 Sketch 6
 ![img_20180613_125954](https://github.com/RebecaStefany/lim-2018-05-bc-core-pm-datadashboard/blob/develop/img/skecth6.png)
