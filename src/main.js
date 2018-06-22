@@ -4,16 +4,19 @@ var studentsButton = document.getElementById('students_button');
 var view1 = document.getElementById('view_1');
 var view2 = document.getElementById('view_2');
 var view3 = document.getElementById('view_3');
+var header = document.getElementById('header');
 
 loginButton.addEventListener('click',function(){
   view1.style.display = "none";
   view2.style.display = "block";
+  header.style.display = "block";
   view3.style.display = "none";
 });
 
 studentsButton.addEventListener('click',function(){
   view1.style.display = "none";
-  view2.style.display = "block";
+  view2.style.display = "none";
+  header.style.display = "block";
   view3.style.display = "block";
 });
 

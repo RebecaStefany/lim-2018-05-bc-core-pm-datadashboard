@@ -57,10 +57,6 @@ filterButton.addEventListener("click", function () {
 
 
 
-usersList.style.cursor = 'pointer';
-usersList.onclick = function() {
-  console.log("Hello")
-};
 
 /*const button = document.createElement("button");
 
