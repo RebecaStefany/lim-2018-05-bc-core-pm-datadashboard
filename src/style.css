@@ -20,6 +20,10 @@
 
 }
 
+.textstyle{
+    font-family: 'Open Sans';
+}
+
 #login_container {
     float: left;
     margin-left: 5%;
@@ -47,6 +51,7 @@ input {
 #forg_pass {
     font-size: 15px;
     text-align: left;
+    font-family: 'Open Sans';
 }
 
 #login_button {
@@ -56,7 +61,8 @@ input {
     background-color: #FF009E;
     font-size: 20px;
     font-family: 'Open Sans';
-    border-radius: 8px;  
+    border-radius: 8px;
+    font-family: 'Open Sans';  
 }
 
 #view_2{
