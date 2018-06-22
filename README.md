@@ -38,7 +38,7 @@ Sketch 6
 
 
 ## Prototipo
-Despues de los skecth se procede a realizar el prototipo en alta fidelidad de acuerdo a opiniones y comnentarios referidas por las
+Despues de los skecth se procede a realizar el prototipo en alta fidelidad de acuerdo a opiniones y comentarios referidas por las
 entrevistadas.
 
 Frame 1
