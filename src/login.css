@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+
+  body{
+    background-color: #FFE521;
+  }
+  #viewwelcome{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-color: #FFE521;
+    font-family: 'Open Sans', sans-serif;
+  }
+  img{
+    width: 100%;
+  }
+  
+  .contentImage{
+    float: left;
+    width: 60%;
+    height: 50%;
+    margin-top: 16%;
+    background-color: #FFE521;
+  }
+  .contentLogin{
+    float: left;
+    width: 40%;
+    height: 50%;
+    text-align: left;
+    margin-top: 18%;
+    background-color: #FFE521;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .text-content{
+    width: 300px;
+    height: 27px;
+    border-radius: 8px;
+    border: none;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+  }
+
+  .textQuestion{
+    font-size: 14px;
+  }
+  #btnLogin{
+    width: 300px;
+    height: 27px;
+    border: none;
+    background-color: #FF009E;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    border-radius: 8px;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    box-sizing: border-box;
+    cursor: pointer;
+    color: azure;
+    border: 1px solid #FF009E;
+  }

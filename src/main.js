@@ -6,11 +6,14 @@ else{
      alert("Porfavor ingrese, nombre de usuario y contraseña correctos."); 
     }
 }
+var imgfondo = document.getElementById('imgfondo');
 var btnStudents = document.getElementById('btnStudents');
 var contentglobal = document.getElementById('contentglobal');
 btnStudents.addEventListener('click', function(){
   contentglobal.style.display = "block";
   contentsedes.style.display = "none";
+  imgfondo.style.display = "none";
+
 });
 
 var btnSedes = document.getElementById('btnSedes');
@@ -18,6 +21,7 @@ var contentsedes = document.getElementById('contentsedes');
 btnSedes.addEventListener('click', function(){
   contentsedes.style.display = "block";
   contentglobal.style.display = "none";
+  imgfondo.style.display = "none";
 });
 
 

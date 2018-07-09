@@ -3,60 +3,7 @@
     padding: 0%;
   }
 
-  #viewwelcome{
-    height: 100%;
-    width: 100%;
-    position: relative;
-    background-color: #FFE521;
-    font-family: 'Open Sans', sans-serif;
-  }
-  img{
-    width: 100%;
-  }
-  
-  .contentImage{
-    float: left;
-    width: 60%;
-    height: 50%;
-    margin-top: 16%;
-    background-color: #FFE521;
-  }
-  .contentLogin{
-    float: left;
-    width: 40%;
-    height: 50%;
-    text-align: left;
-    margin-top: 18%;
-    background-color: #FFE521;
-    font-family: 'Open Sans', sans-serif;
-  }
 
-  .textQuestion{
-    font-size: 14px;
-  }
-  #btnLogin{
-    width: 300px;
-    height: 27px;
-    border: none;
-    background-color: #FF009E;
-    font-size: 20px;
-    font-family: 'Open Sans';
-    border-radius: 8px;
-    font-family: 'Open Sans';
-    text-transform: uppercase;
-    box-sizing: border-box;
-    cursor: pointer;
-    color: azure;
-    border: 1px solid #FF009E;
-  }
-  .text-content{
-    width: 300px;
-    height: 27px;
-    border-radius: 8px;
-    border: none;
-    box-sizing: border-box;
-    border: 1px solid #ccc;
-  }
   #content-header{
     width: 25%;
     height: 700px;
@@ -68,11 +15,34 @@
     font-size: 15px;
     border: 1px solid #000000;
   }
+  #imgfondo{
+    margin: 5%;
+    text-align: center;
+    width: 60%;
+    height: 600px;
+    float: left;
+    text-align: center;
+    font-family:'Open Sans';
+    font-size: 15px;
+    background: #E0FFFF;
+    
+  }
+  #imgfondo img{
+    padding: 10%;
+    width: 70%;
+    height: 70%;
+    background: #E0FFFF;
+  }
+
   .imglabo{
     width: 100%;
   
   }
-  
+  .textdashboard{
+    font-family:'Open Sans';
+    font-size: 25px;
+  }
+
   .imguser{
     width: 40%;
   }
@@ -123,6 +93,8 @@
     font-size: 16px;
     background: #F0F8FF;
     text-align: center;
+    border: 1px solid #F0F8FF;
+    color: #808080;
   }
 
   #contentglobal div{
@@ -136,8 +108,9 @@
 
   }
   .titledatadashboard{
+    font-family:'Open Sans';
     text-align: center;
-    font-size: 26px;
+    font-size: 30px;
     font-weight: bold;
   }
   #seleccionaSede {
@@ -238,9 +211,10 @@
     float: left;
     width: 20%;
     height: 70%;
-    border: 1px solid #56F89A;
-    background: #56F89A;
+    border: 1px solid #98FB98;
+    background: #98FB98;
     margin: 2%;
+    margin-bottom: 2px;
   }
 
   #contentsedes{

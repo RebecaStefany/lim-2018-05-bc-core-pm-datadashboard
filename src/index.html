@@ -20,15 +20,19 @@
       <div><button>Configuración</button></div>
       <div><button class="btnsalir">Salir</button></div>
     </div>
+    <div id="imgfondo">
+      <label class="textdashboard">DASHBOARD LABORATORIA</label><br>
+      <img class="imgfondo" src="../img/fondo.png" alt="">
+    </div>
     <div id="contentsedes" style="display: none">
         <video autoplay="" loop="" playsinline="" muted="" >
             <source src="../img/Mapa_con_Logo.mp4" type="video/mp4"> Your browser does not support the video tag.
         </video>
     </div>
     <div id="contentglobal" style="display: none">
-      <div class="titledatadashboard"><label for="">DATADASHBOARD</label></div>
+      <div class="titledatadashboard"><label for="">PROGRESO DE ESTUDIANTES</label></div>
       <div class="sede-content">
-        <label for="">Selecciona sede:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label>
+        <label for="">SELECCIONA SEDE:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label>
         <select name="cohorts" id="seleccionaSede" onchange="changeSede()">
           <option value="lim">Lima - Perú</option>
           <option value="scl">Santiago - Chile</option>
@@ -38,12 +42,12 @@
         </select>
       </div>
       <div>
-       <label for="">Selecciona Cohort:&nbsp; &nbsp; &nbsp;</label>
+       <label for="">SELECCIONA COHORT:&nbsp; &nbsp; &nbsp;</label>
        <select name="cohorts" id="cohortsOptions" onchange="onChangeCohort()"></select>
       </div>
       <div class="divorder">
         <div class="divcontent">
-        <label for="">Ordenar por:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label>
+        <label for="">ORDENAR POR:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label>
          <select name="" id="order" onchange="searchGlobal();" >
           <option value="name">Nombre</option>
           <option value="percent">Porcentaje de Completitud Total</option>
@@ -59,7 +63,7 @@
          </select>
        </div>
        <div class="divcontent">
-        <label>Filtrar: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label>
+        <label>FILTRAR: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</label>
         <input type="text" onkeyup="searchGlobal()" id="texto">
        </div>
        <div id="resultado" class="row"></div>
