@@ -1,4 +1,4 @@
-[Link Dashboard Laboratoria](https://docs.google.com/spreadsheets/d/1AoXQjZnZ5MTPwJPNEGDyvn5vksiOUoPr932TjAldTE4/edit#gid=536983970)
+[Link Dashboard Laboratoria](https://rebecastefany.github.io/lim-2018-05-bc-core-pm-datadashboard/src/)
 # Data Dashboard Laboratoria
 
 ## Introducción
