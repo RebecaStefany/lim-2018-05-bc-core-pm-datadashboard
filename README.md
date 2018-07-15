@@ -1,4 +1,5 @@
 [Link Dashboard Laboratoria](https://rebecastefany.github.io/lim-2018-05-bc-core-pm-datadashboard/src/login)
+
 Usuario: ADMIN
 Clave: ADMIN
 
